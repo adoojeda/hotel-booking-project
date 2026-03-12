@@ -2,3 +2,5 @@ pandas
 kaagle
 ipykernel
 sqlalchemy
+plotly 
+nbformat
